@@ -1,0 +1,8 @@
+C:\sources\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\sources\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\sources\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\sources\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\sources\ConsoleApplication1\ConsoleApplication1\bin\Debug\Lego.Ev3.Desktop.dll
+C:\sources\ConsoleApplication1\ConsoleApplication1\bin\Debug\Lego.Ev3.Desktop.xml
+C:\sources\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\sources\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
